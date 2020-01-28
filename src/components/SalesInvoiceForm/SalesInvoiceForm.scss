@@ -1,0 +1,13 @@
+.sales_invoice_text {
+  font-family: Dancing Script;
+  font-size: 2rem;
+  color: #ffd700;
+}
+.enter_details_container {
+  text-align: center;
+  margin-bottom: 3rem;
+
+  &_text {
+    font-family: Playfair Display;
+  }
+}
